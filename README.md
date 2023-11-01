@@ -42,7 +42,7 @@ To run Coursera Python AI Project locally, follow these steps:
    pip install -r requirements.txt
    ```
 
-4. ** Set the `server.py` File into Flask App:**
+4. **Set the `server.py` File into Flask App:**
    ```bash
     export FLASK_APP=server.py
    ```
