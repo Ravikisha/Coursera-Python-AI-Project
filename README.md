@@ -1,6 +1,7 @@
 # Coursera Python AI Project 🌐
+[![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/)
 
-Coursera Python AI Project is a Flask-based application designed to translate English language text to French and vice-versa. This project was created to fulfill the requirements of the IBM Full Stack Development Coursera assignment.
+Coursera Python AI Project is a Flask-based application designed to translate English language text to French and vice-versa. This project was created to fulfill the requirements of the IBM Full Stack Development Coursera assignment. [![Coursera](https://img.shields.io/badge/Coursera-IBM%20Full%20Stack%20Development-blue)](https://www.coursera.org/)
 
 🚀 **Open for Contribution** - We invite contributors to enhance Coursera Python AI Project!
 
